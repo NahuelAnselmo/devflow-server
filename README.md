@@ -34,7 +34,9 @@ Joi (validación de datos).
 
 Postman / Thunder Client (testeo de API).
 
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
+
+```bash
 📦 ecommerce-backend
  ┣ 📂 src
  ┃ ┣ 📂 config      # Configuración (db, env)
@@ -46,6 +48,7 @@ Postman / Thunder Client (testeo de API).
  ┣ 📜 .env.example  # Variables de entorno de ejemplo
  ┣ 📜 package.json
  ┗ 📜 README.md
+
 
 ⚙️ Requisitos Previos
 
